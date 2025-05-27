@@ -1,0 +1,42 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+
+    <!-- Affirmation Titles -->
+    <string name="affirmation1_title">Debu the Cat</string>
+    <string name="affirmation2_title">My Favorite Food</string>
+    <string name="affirmation3_title">Tobitob</string>
+    <string name="affirmation4_title">My Boyfriend</string>
+    <string name="affirmation5_title">Gratitude</string>
+    <string name="affirmation6_title">Positive Attraction</string>
+    <string name="affirmation7_title">New Opportunities</string>
+    <string name="affirmation8_title">Follow Your Heart</string>
+    <string name="affirmation9_title">Perfect Timing</string>
+    <string name="affirmation10_title">Present Moment</string>
+
+    <!-- Affirmation Descriptions -->
+    <string name="affirmation1_desc">I am strong and capable of overcoming any obstacle that comes my way.</string>
+    <string name="affirmation2_desc">I believe in myself and trust in my abilities to achieve my goals.</string>
+    <string name="affirmation3_desc">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4_desc">Every challenge in my life is an opportunity to learn from and become stronger.</string>
+    <string name="affirmation5_desc">I have so much to be grateful for and I appreciate all the blessings in my life.</string>
+    <string name="affirmation6_desc">Good things are always coming into my life and I am open to receiving them.</string>
+    <string name="affirmation7_desc">New opportunities await me at every turn and I embrace them with confidence.</string>
+    <string name="affirmation8_desc">I have the courage to follow my heart and pursue my true passions.</string>
+    <string name="affirmation9_desc">Things will unfold at precisely the right time and I trust the process of life.</string>
+    <string name="affirmation10_desc">I will be present in all the moments that this day brings and cherish each experience.</string>
+</resources>
